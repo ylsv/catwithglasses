@@ -15,7 +15,7 @@ a {
 	padding: 21px;
 	display: flex;
 	flex-direction: column;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-items: center;
 	text-align: center;
 }
@@ -31,6 +31,7 @@ a {
 	height: 190px;
 	max-width: 336px;
 	transition: color 0.7s;
+	margin-bottom: 21px;
 }
 
 .question {
