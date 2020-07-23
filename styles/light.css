@@ -1,0 +1,20 @@
+html,
+body {
+	background: #e5e5e5;
+}
+
+.cat-container__text {
+	color: #2b234c;
+}
+
+.push {
+	background: #2b234c;
+	box-shadow: 0px 1px 10px rgba(43, 35, 76, 0.3);
+	color: #ffffff;
+	transition: 0.4s;
+}
+
+.push:hover {
+	background: #fff;
+	color: #2b234c;
+}
